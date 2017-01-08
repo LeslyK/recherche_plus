@@ -1,0 +1,89 @@
+- Par qui, quand, pourquoi et où a été inventé Internet ?
+Les étudiants, 1969, Redirection des données militaires.
+- Quelle est la différence entre le Web et Internet ?
+Internet est le réseau informatique mondial. le web est service qui utilise l'internet.
+- Qu’est-ce que cela :
+- 8.8.8.8 (adresses IP anycast des serveurs)
+- 192.168.0.1 (l'adresse du passerelle par fibre optique ou routeur)
+- 255.255.255.0 (masque de sous réseau)
+- 127.0.0.1 (Localhost)
+- Que sont le copyright et le copyleft ?(copyleft: une méthode générale pour rendre libre un programme). (copyright est un droit exclusif accordé au créateur d'une œuvre)
+- Que sont les Creatives Commons ? (Les licences fondées sur le droit d'auteur)
+- Qui est Grace Hopper ?(Elle est la conceptrice du premier compilateur en 1951)
+- Qu'est-ce que Qwant ?(Qwant est un moteur de recherche français)
+- Qui est Steve Wozniak ?(Cofondateur d'Apple Ingénieur électronique Informaticien)
+- D'où vient l'expression "bug informatique" ?(Nouveau-Brunswick, au Québec )
+- Qui est Aaron Swartz ?
+- Qu’est-ce que le projet GNU ?
+- Quelles sont les différences entre le Http et le Https ?
+- Qui est Richard Stallman ?
+- Comment fonctionnent les bang de Duck Duck Go ?
+- Qui est Marissa Mayer ?
+- Qu’est-ce qu’une attaque “brute force” ?
+- Qui est Linus Torvalds ?
+- Quels sont ses plus grands développements ?
+- Combien coûte un nom de domaine ?
+- Quels sont les différents services d'emailing disponibles ?
+- Un client vous envoyer des emails automatiquement depuis son site web (contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
+- Quelle est votre adress IP actuelle ?
+- Et celle de votre smartphone ?
+- Qu’est-ce que le développement en cycle V ?
+- Les Hackers sont-ils des hors-la-loi ?
+- Qui a inventé la souris ?
+- Qui est Margaret Hamilton ?
+- Retrouvez le code source de la mission Apollo 11.
+- Décrivez le (langage, nb de collaborateurs, durée de la mission ...)
+- Qu’est-ce que Agile Manifesto ? (Le Manifeste agile est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles.)
+- Trouvez un screenshot de la première version de Facebook (Ouvrez l’outil de capture en saisissant Outil de capture dans la zone de recherche du menu Démarrer, puis sélectionnez l’application lorsqu’elle apparaît.)
+- Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement)( NTFS) ?
+- Qu'est-ce que le load balancing ?(Le load balancing est une solution informatique adaptée aux petits budgets. La technique consiste à répartir les charges sur différents appareils d'un même réseau. Elle permet notamment aux serveurs de sites Internet à forte audience de ne pas se retrouver surchargé)
+- Qu’est-ce que l’Open Source ? (code source ouvert)
+- Qu’est-ce que le Bug Bounty ?(programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs)
+- Qu'est-ce qu'une adresse IP v4 ?(Internet Protocol version 4)
+- Pourquoi parle-t-on aussi d'adresse IP v6 ?(protocole réseau sans connexion de la couche 3)
+- Combien coûte un serveur pour héberger mon site perso ?(2.99€)
+- Qu’est-ce que le Cowboy coding ?(c'est une discipline en développement logiciel qui permet aux programmeurs d'avoir un contrôle de développement)
+- Quelles sont les langages de programmation les plus plébiscités aujourd'hui ?(C, Java, Python, C++, R, C#, PHP, Javascript, Ruby, Go)
+- Quelles sont les différences entre un software open-source et un software free ? (lisibilité sur les sources du logiciel différent logiciel libre)
+- Trouvez trois entreprises qui développent des solutions Free & OpenSource (Red Hat, Salesforce, Usinenouvelle)
+- comment gagnent-elles de l’argent ?(Aux États-Unis, les éditeurs associent leur offre de support à une forme d’assurance relative à la propriété intellectuelle, qui peut être très séduisante pour les services juridiques de leurs clients. )
+- Qui est Phil Zimmermann ? (créateur du Pretty Good Privacy, le logiciel de chiffrement de courrier électronique le plus utilisé au monde)
+- Qu’est-ce que le W3C ? (Le W3C, World Wide Web Consortium, est un organisme international qui développe des standards pour le Web)
+- Combien d’heures de vidéo sont mises en ligne chaque minute sur Youtube ?(400h)
+- Que sont les White Hat et les Black Hat ?(un hacker éthique ou un expert en sécurité; les hackers mal intentionnés)
+- Qu’est-ce qu’une attaque DDoS ? (Une attaque DDoS vise à rendre un serveur, un service ou une infrastructure indisponibles en surchargeant la bande passante du serveur, ou en accaparant ses ressources jusqu'à épuisement)
+- Quelles est l'adresse MAC de votre ordinateur ?(24:b6:fd:fb:bd:c4)
+- Et de votre smartphone ? (80:6a:b0:fc:12:a5)
+- Trouvez 5 entreprises qui recrutent sur Toulouse un développeur web junior (Synergie, chausson,labsoft,CESI, APSID)
+- Qui est Tim Berners-Lee ?(principal inventeur du World Wide Web)
+- Comment sont reliés les différents réseaux d'internet ?(Les LAN; Les MAN; Les WAN;)
+- Qu’est-ce que KISS ? (KiSS est l’acronyme de Kisekae Set System)
+- Un antivirus est-il utile sous Windows ? oui; Sous Mac ? non; Sous Linux ? non
+- En quoi consiste la méthode Pomodoro ? Avantages et inconvénients ? (Simple à comprendre et à appliquer,;Difficile de tenir 25 min, trop court ou trop long)
+- Qu’est-ce qu’Amazon Web Services - AWS ? (Amazon Web Services (AWS) est une plateforme de services de cloud sécurisée, )
+- Qui est Sundar Pichai ? (dirigeant d'entreprise indo-américain, président-directeur général de Google depuis le 2 octobre 2015 à la suite de la restructuration de Google et la création de la nouvelle société Alphabet.)
+- Quelle est la répartition des systèmes d'exploitation pour les pc personnels ? (partition)
+- Qu'est-ce qu'une Cheatsheet ? ( un document rédigé à l'avance afin d'éviter de « sécher » sur un sujet)
+- Combien de requêtes y-a-t-il sur Google toutes les minutes ? (3 million)
+- Qu’est-ce que les joies du code ?( Les joies du code est un site de divertissement à caractère humoristique à destination des développeurs francophones.)
+- Qui sont Larry Page et Sergey Brin ? (Les fondateurs du moteur de recherche google)
+- Convertissez en binaire 2 = 10, 5 = 101, 12 = 1100, 25 = 11001, 512= 1000000000.
+- Convertissez en hexadécimal: 2=2, 5=5, 12=C, 25=19, 512=200
+- Convertissez du binaire vers le système “classique” (base 10) 100=4, 1011=10, 11111=31, 11110110101=1973
+- Quelles sont les nouveautés apportées par le HTML 5 ? (l'introduction du brouillon de HTML5)
+- Qu’est-ce que ECMAScript 2015 ?( Le nom de la prochaine version du standard qui définit Javascript change et devient ECMAScript 2015)
+-  Le nom de la prochaine version du standard qui définit Javascript change et devient ECMAScript 2015 ?
+- Quelles différences avec ES 6 ?(utilisation de quote a la place de double quotes)
+- Quelles sont les différences entre application native, application hybride, application cross-platform et web application ?
+- Qu’est-ce que xkcd ?(
+xkcd est une bande dessinée en ligne créée par Randall Munroe, un ancien consultant sur les robots à la NASA.)
+- Qu’est-ce que Mr Robot ?(Mr. Robot est une série télévisée américaine créée par Sam Esmail et diffusée depuis le 24 juin 2015 sur USA Network et depuis le 5 septembre 2015 sur Showcase au Canada)
+- Qu’est-ce que OpQuast ? ( Opquast reporting est un outil d'audit de la qualité et de l'accessibilité des sites Web des sites Web.)
+- Quelles sont les communautés de dev de St-Go?(en formation)
+- Quels sont les prochains événements tech sur St-Go?(communautés de dev de St Go)
+- Quelles sont les différences entre un client web et un serveur web ?(Un serveur web (plus précisemment un serveur HTTP) est un logiciel permettant d'interpréter les requêtes HTTP et de fournir des réponses aux clients (en HTML) via un navigateur web;Un serveur d'applications est un logiciel permettant le dépoliement et l'exécution des applications)
+- Donnez 3 exemples de chaque (Apache Tomcat
+Internet Information Services (IIS))
+
+
+
